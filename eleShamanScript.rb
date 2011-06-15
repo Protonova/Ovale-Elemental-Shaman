@@ -1,3 +1,6 @@
+THIS IS NOT MENT FOR US. THIS IS A GITHUB TEST REPO. 
+Script works but is not totally bug free.
+
 #http://www.wowhead.com/talent#hhGMGRfkzGZbhM
 #Notes:
 #Searing totem has a 1min cd
